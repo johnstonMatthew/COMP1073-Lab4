@@ -1,0 +1,37 @@
+{
+    "companyName" : "I-Scream Inc",
+    "headOffice" : "The Sahara Desert",
+    "established" :  "1700 B.C",
+    "active" : true,
+    "topFlavours" : [{
+        "name" : "Chocolate Mint",
+        "calories" : 40000,
+        "type" : "Ice-Cream",
+        "ingredients" : ["Cream", "Sugar", "Mint", "Chocolate Syrup"],
+        "image" : "https://johnstonmatthew.github.io/COMP1073-Lab4/images/chocolate-mint.svg"
+    }, {
+        "name" : "Peach Mango",
+        "calories" : -1000000,
+        "type" : "Milkshake Type Ice-Cream",
+        "ingredients" : ["Mango Chunks", "Cream", "Sugar", "Peach Extract"],
+        "image" : "https://johnstonmatthew.github.io/COMP1073-Lab4/images/peach-mango.svg"
+    }, {
+        "name" : "Strawberry Sprinkle",
+        "calories" : 25,
+        "type" : "Ice-Cream",
+        "ingredients" : ["Cream", "Sugar", "Fresh Strawberry", "Sprinkle", "Strawberry Syrup", "Chocolate Syrup"],
+        "image" : "https://johnstonmatthew.github.io/COMP1073-Lab4/images/strawberry-sprinkle.svg" 
+    }, {
+        "name" : "Birthday Cake?",
+        "calories" : 900,
+        "type" : "Cake Like Ice-Cream",
+        "ingredients" : ["Cream", "Sugar", "Cake Mix" , "Sprinkles", "Vanilla Syrup", "Chocolate Base"],
+        "image" : "https://johnstonmatthew.github.io/COMP1073-Lab4/images/ice-cream-xtra1.svg"  
+    }, {
+        "name" : "Wafer Crunch",
+        "calories" : 25,
+        "type" : "Ice-Cream",
+        "ingredients" : ["Cream", "Sugar", "Crushed Wafers", "Chocolate Chunks", "Caramel Syrup"],
+        "image" : "https://johnstonmatthew.github.io/COMP1073-Lab4/images/ice-cream-xtra2.svg" 
+    }]
+}
